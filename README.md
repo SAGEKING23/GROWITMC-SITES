@@ -12,7 +12,7 @@ A collection of Websites built with Wix and Wordpress For GROWIT MC as a Freelan
  - Git
 
 ## Builds
- - BARA COFFEE
+ ### BARA COFFEE
     ### Project Overview
     Please create a stunning and professional website for Bara Coffee, a vibrant coffee shop located in 24 Gladstone St, Durbanville, Cape Town, 7550 7560. 
     The website will serve as a digital storefront, allowing customers to explore their offerings, order online, make reservations, and engage with their brand online.
@@ -35,6 +35,10 @@ A collection of Websites built with Wix and Wordpress For GROWIT MC as a Freelan
     
     4. Mobile Optimization:
     • Ensure the website is fully responsive and functions seamlessly on both desktop and mobile devices.
+
+    ### Preview Link
+    (https://infosuperlativep.wixsite.com/bara-coffee)
+    
  - JUMMY'S KITCHEN
     ### Project Overview
 

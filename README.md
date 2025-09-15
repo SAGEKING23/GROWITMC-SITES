@@ -60,4 +60,28 @@ A collection of Websites built with Wix and Wordpress For GROWIT MC as a Freelan
     • Social Media Links: Integrate links to their social media profiles for easy access.4. Mobile Optimization:
     • Ensure the website is fully responsive and functions seamlessly on both desktop and mobile devices.
     
-    Facebook Page Link- https://www.facebook.com/jimmyskitchencafe/  Use the information found online and in social media pages (photos, videos, menus, and more)
+    Facebook Page Link- https://www.facebook.com/jimmyskitchencafe/  
+    Use the information found online and in social media pages (photos, videos, menus, and more)
+
+  ### KR Property Maintenance cc 
+  ### Project Overview
+    Please create a stunning and professional website for KR Property Maintenance cc. The website will serve as a digital storefront, allowing customers to explore their offerings, make bookings and engage with their brand online. They offer property maintenance services.
+   
+    Key Responsibilities:
+    1. Website Design:
+    ◦ Create an aesthetically pleasing, user-friendly website that reflects the unique atmosphere and offerings of KR Property Maintenance cc.
+    ◦ Use branding elements, colors, and imagery that resonate with their brand and target audience.
+    
+    2. Content Integration:
+    • Utilize information and photos from their social media pages (particularly Facebook) and Google listings to populate the website.
+    • Ensure that all content is optimized for clarity and engagement.
+    
+    3.Core Features:
+    • Booking System: Integrate booking system that allows customers to easily book their services.
+    • Contact Information: Provide clear contact details, location, and operational hours.
+    • Gallery: Include a photo gallery showcasing projects.
+    • Social Media Links: Integrate links to their social media profiles for easy access.
+    
+    4. Mobile Optimization:
+    • Ensure the website is fully responsive and functions seamlessly on both desktop and mobile devices. 
+    Facebook Page Link- https://www.facebook.com/reonkr/

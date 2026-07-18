@@ -1,5 +1,14 @@
 # GROWITMC-SITES
-### launched sites: https://www.withthanxcatering.co.za
+### launched sites: 
+https://infosuperlativep.wixstudio.com/kookwaterwinkels
+https://infosuperlativep.wixsite.com/bara-coffee
+https://infosuperlativep.wixsite.com/pragmatic-training-c
+https://infosuperlativep.wixsite.com/t-one-palm-cleaning
+https://infosuperlativep.wixsite.com/ty3-the-young-treez
+https://infosuperlativep.wixsite.com/peace-mkc
+https://infosuperlativep.wixsite.com/bayleaf-cafe
+https://infosuperlativep.wixsite.com/tissa-wellness-produ
+https://infosuperlativep.wixsite.com/kr-property-maintena
 
 ## Design & Development
 A collection of Websites built with Wix and Wordpress For GROWIT MC as a Freelance Developer
